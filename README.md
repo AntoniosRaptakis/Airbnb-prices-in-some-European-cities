@@ -6,5 +6,13 @@ I have uploaded the jupyter notebook and the respective pdf file.
 
 Inside the project you will find exploratory data analysis and statistical analysis, correlations between the target column and the other features as well as only between continuous features and what I used for the regression in order to predict the prices and the features importance. 
 
+
 The libraries that I used:
-- 
+- Numpy
+- Pandas
+- Seaborn
+- Matplotlib
+- Scikit-learn
+- Plotly
+- folium
+- Geopandas
